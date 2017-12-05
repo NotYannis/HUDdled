@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 195ba15f83d8a474495eacce8154cc65
+timeCreated: 1512236808
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Estrangelo Edessa
+  fontNames:
+  - Estrangelo Edessa
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
